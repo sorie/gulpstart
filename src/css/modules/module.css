@@ -1,0 +1,9 @@
+.pod{
+	width: 100%;
+}
+.pod input[type=text]{
+	width: 50%;
+}
+.pod-callout{
+	width: 200px;
+}

@@ -1,0 +1,8 @@
+.tab{
+	background-color: #aaccf7; 
+	color: #343434;
+}
+.is-tab-active {
+	background-color: #6970e0;
+	color: #ecece0;
+}

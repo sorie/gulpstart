@@ -1,0 +1,19 @@
+{
+	"lint" : true,
+	"concat" : true,
+	"uglify" : true,
+	"rename" : false,
+
+	"path" : {
+		"css": {
+			"src": ["src/css/**/*.css"],
+			"dest": "dist/css/",
+			"filename": "style.css"
+		},
+		"js": {
+			"src": ["src/js/libs/**/*.js"],
+			"dest": "dist/js/",
+			"filename": "DOMlibrary.js"
+		}
+	}
+}
